@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Jim Wilcox, software architect with Insight Solutions.  I'm also Microsoft MVP in Developer Technologies since 2019.
+Hi, I’m Jim Wilcox, software architect with Insight Solutions.  
+
+I'm also Microsoft MVP in Developer Technologies since 2019.
+
 - 👀 I’m interested in all things software development, but especially in the Microsoft tools space.
 - 🌱 I’m currently learning all the things (never stop!)
-- 💞️ I’m looking to collaborate on anything that will help people.
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on anything that will help people, especially community outreach.
+- 📫 How to reach me?  [LinkedIn](https://www.linkedin.com/in/jimwilcox2/)
 
 - 🤓 One of the fun things I keep here on GitHub is my book (and its website).  I wrote the manuscript using Visual Studio Code and Markdown Monster in markdown.
 
