@@ -1,4 +1,6 @@
-Hi, I’m Jim Wilcox, software architect with Insight Solutions.  
+Hi, I’m Jim Wilcox, Currently independent Digital Transformation and Enterprise Modernization Tech Lead,
+
+That's a fancy way of saying I help build (or re-build) business workflow applications into modern software platforms.  Most of what I do supports line of business, research and development, minimum viable product (mvp) or proof of concepts.
 
 I'm also Microsoft MVP in Developer Technologies since 2019.
 
