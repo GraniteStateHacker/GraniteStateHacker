@@ -2,7 +2,7 @@ Hi, I’m Jim Wilcox, Currently an AI Architect with [Fog Solutions](https://fog
 
 That's a fancy way of saying I help amp business workflows with the latest artificial intelligence tools, especially in the Microsoft / Azure Cloud / .NET / Copilot spaces.  Most of what I do supports line of business, research and development, minimum viable product (mvp) or proof of concepts.
 
-I'm also Microsoft MVP in Developer Technologies since 2019.
+I'm also a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/70a2a0ca-6250-e911-a995-000d3a1362e3) in Developer Technologies since 2019.
 
 - 👀 I’m interested in all things software development, but especially in the Microsoft tools space.
 - 🌱 I’m currently learning all the things (never stop!)
