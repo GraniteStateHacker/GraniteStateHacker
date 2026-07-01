@@ -1,4 +1,4 @@
-Hi, I’m Jim Wilcox, Currently an AI Architect with [Fog Solutions](https://fogsolutions.com),
+Hi, I’m Jim Wilcox, Currently an AI Architect with [Nimble Gravity](https://nimblegravity.com),
 
 That's a fancy way of saying I help amp business workflows with the latest artificial intelligence tools, especially in the Microsoft / Azure Cloud / .NET / Copilot spaces.  Most of what I do supports line of business, research and development, minimum viable product (mvp) or proof of concepts.
 
