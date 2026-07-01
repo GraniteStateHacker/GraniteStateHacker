@@ -1,6 +1,6 @@
-Hi, I’m Jim Wilcox, Currently an AI Architect with [Nimble Gravity](https://nimblegravity.com),
+Hi, I’m Jim Wilcox, Currently a Forward Deployed AI Architect with [Nimble Gravity](https://nimblegravity.com),
 
-That's a fancy way of saying I help amp business workflows with the latest artificial intelligence tools, especially in the Microsoft / Azure Cloud / .NET / Copilot spaces.  Most of what I do supports line of business, research and development, minimum viable product (mvp) or proof of concepts.
+That's a fancy way of saying I help amp business workflows with the latest artificial intelligence tools, especially in the Microsoft Foundry / Azure Cloud / .NET / Copilot spaces.  Most of what I do supports line of business, research and development, minimum viable product (mvp) or proof of concepts.
 
 I'm also a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/70a2a0ca-6250-e911-a995-000d3a1362e3) in Developer Technologies since 2019.
 
